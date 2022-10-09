@@ -1,4 +1,5 @@
-# Skillsroot  
+# Skillsroot 
+Skills Root is a leading vocational education company that provides managed training services including custom content development and curriculum design, learning administration, learning delivery, strategic sourcing, and learning technology. 
 Building a bridge connecting the youth and industry
 
 ## Installation Instructions
